@@ -5,9 +5,9 @@ SCalculator is a **All-in-One** Scientific Calculator with **LaTeX** built-in. I
 ## Overview
 
 * [Features](#features)
- * [Functions](#functions)
- * [Constants](#constants)
- * [Custom Functions and Constants](#custom-functions-and-constants)
+    * [Functions](#functions)
+    * [Constants](#constants)
+    * [Custom Functions and Constants](#custom-functions-and-constants)
 * [Installation](#installation)
 * [Translations](#translations)
 * [3rd Party Libraries](#3rd-party-libraries)
@@ -19,39 +19,39 @@ SCalculator is a **All-in-One** Scientific Calculator with **LaTeX** built-in. I
 # Features
 
 * **Works from the Web Browser**
- * No need to install anything
+    * No need to install anything
 
 * **Works Offline**
- * If you need SCalculator and you don't have internet, you can install it's offline versions (see [Installation](#installation) section below).
+    * If you need SCalculator and you don't have internet, you can install it's offline versions (see [Installation](#installation) section below).
 
 * **Works with Different Devices and Screen Sizes (Fluid Design)**
- * App auto adapts to your device's screen,
- * Auto adjusts font size
- * Auto adjust position and display of the User Interface.
+    * App auto adapts to your device's screen,
+    * Auto adjusts font size
+    * Auto adjust position and display of the User Interface.
 
 * **Automatically detect and use User Prefered Language**
- * SCalculator detects what is the language that is being used by the user and configures itself to that language as well (see [Translations](#translations) section for details).
+    * SCalculator detects what is the language that is being used by the user and configures itself to that language as well (see [Translations](#translations) section for details).
 
 * **Beautiful and Easy to Read**
- * SCalculator has LaTeX built-in
- * LaTeX allows the app to display math in an elegant, beautiful and easy to read way
+    * SCalculator has LaTeX built-in
+    * LaTeX allows the app to display math in an elegant, beautiful and easy to read way
 
 * **70+ Functions Ready to Use**
- * You can use multiple functions from many Math fields like:
- * Calculus (Definite Integral, Derivative, Limits)
- * Probability
- * Geometry
- * Statistics
- * Arithmetic
- * Trigonometry
+    * You can use multiple functions from many Math fields like:
+    * Calculus (Definite Integral, Derivative, Limits)
+    * Probability
+    * Geometry
+    * Statistics
+    * Arithmetic
+    * Trigonometry
 
 * **10+ Constants Already Set Up**
 
 * **Allows User Defined Functions and Constants**
- * The user can define a custom function or constant in SCalculator to use it later on (see [Custom Functions and Constants](#custom-functions-and-constants) section)
+    * The user can define a custom function or constant in SCalculator to use it later on (see [Custom Functions and Constants](#custom-functions-and-constants) section)
 
 * **Free to Use**
- * You will never be charged to use SCalculator
+    * You will never be charged to use SCalculator
 
 ## Functions
 
